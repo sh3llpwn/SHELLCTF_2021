@@ -1,4 +1,4 @@
-flag{n0_ro80t5_4llow3d}
+SHELL{n0_ro80t5_4llow3d}
 
 Steps: 
 1. On viewing source code, we dont find anything interesting. 
