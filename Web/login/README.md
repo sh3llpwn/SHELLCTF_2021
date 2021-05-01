@@ -26,4 +26,4 @@ function checkIt() {
 
 5. We paste the hash in https://crackstation.net/ and get the password : ir0nm4n
 
-6. Loging in with these creds gives the flag hurray. 
+6. Loging in with these creds gives the flag. 
