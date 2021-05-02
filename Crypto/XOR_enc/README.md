@@ -8,4 +8,5 @@ and said key is one of the alphabet.
 just by writing a code for encryption and decryption(as for xor both the codes will be same) and running for all 26 alphabets as key and we get a bunch of texts but there will be only one text which is in our flag format.
  
  i.e.
- 
+ ![flagpic](https://user-images.githubusercontent.com/70768880/116804163-404a5c00-ab3a-11eb-9f49-c999435de6ea.png)
+
