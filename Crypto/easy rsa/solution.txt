@@ -1,0 +1,6 @@
+wrote a tool
+https://github.com/divydividivu/SimpleRSADecryptor
+
+
+flag:
+shell{switchin_to_asymmetric}
