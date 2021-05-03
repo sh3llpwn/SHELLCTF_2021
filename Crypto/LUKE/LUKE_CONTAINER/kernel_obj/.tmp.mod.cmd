@@ -1,0 +1,1 @@
+cmd_/root/Desktop/projects/SHELL/SHELLCTF0x02/Crypto/LUKE/LUKE_CONTAINER/kernel_obj/tmp.mod := { echo  /root/Desktop/projects/SHELL/SHELLCTF0x02/Crypto/LUKE/LUKE_CONTAINER/kernel_obj/tmp.o; echo; } > /root/Desktop/projects/SHELL/SHELLCTF0x02/Crypto/LUKE/LUKE_CONTAINER/kernel_obj/tmp.mod
