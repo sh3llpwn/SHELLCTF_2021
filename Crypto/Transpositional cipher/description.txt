@@ -1,0 +1,7 @@
+Description :
+
+Can you decrypte this ciphered text using the 
+key = 3 1 2
+ciphered text : HESL{LRAT5PN51010T_CNPH1R}3
+
+hint : did you know about transpositional cipher.

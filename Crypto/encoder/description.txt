@@ -1,0 +1,13 @@
+Description:
+
+can you decrypt this text : 
+ ZOLSS{W1G_D3HY_4_T45R}
+and the given other information is "key = 7"
+
+NOTE: do not shift the numbers and the special charecters( '{' , '}' , '_' ).
+
+
+
+hint :
+
+SHIFT.

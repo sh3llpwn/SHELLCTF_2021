@@ -1,0 +1,9 @@
+Description :
+
+Can you decrypte the encrypted message here using this substitution.
+for alphabets = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ{}_1234567890'
+and for key   = 'QWERTPOIUYASDFGLKJHZXCVMNB{}_1234567890'
+
+and the encrypted message is :
+'HITSS{5X65Z1ZXZ10F_E1LI3J}'
+
