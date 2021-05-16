@@ -1,0 +1,8 @@
+Description:
+
+There is a locker protected with a pin.
+Can you help me out in finding the pin, and there is some labeling side of it.
+
+https://drive.google.com/file/d/12xHqvBOv5P6S2zjn9oWNTlOMPkgT_aal/view?usp=sharing
+
+hint : flag is not in SHELL{} format.
