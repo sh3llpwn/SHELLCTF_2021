@@ -8,9 +8,9 @@ opening it in ghidra and going to main fuction we can see a there is a call for 
 ![main_showing_fun](https://user-images.githubusercontent.com/70768880/118613897-d1792e00-b7dc-11eb-9756-66198e746fe0.png)
 jumping to that function we see some hex values i.e.
 ![shell{](https://user-images.githubusercontent.com/70768880/118614114-0ab19e00-b7dd-11eb-847c-e5ae0c738ee3.png)
-this means : "SHELL{" and this is stored at <local c8>
+this means : "SHELL{" and is stored at < local c8 >
 ![shrine](https://user-images.githubusercontent.com/70768880/118614132-10a77f00-b7dd-11eb-8a7a-71ccc0781d54.png)
-this is : "5hR1n3}" and is stored at <local 88>
+this is : "5hR1n3}" and is stored at < local 88 >
 ![melvo](https://user-images.githubusercontent.com/70768880/118614148-169d6000-b7dd-11eb-8386-cfe28ba842d9.png)
 this is : "M3L0v413" and is stored at <local 48> ( rax )
 ![nt0](https://user-images.githubusercontent.com/70768880/118614168-1ac97d80-b7dd-11eb-9146-42a47dc75aa9.png)
