@@ -10,3 +10,5 @@ here we can see the there is a call for checkflag function.
 Go to the checkflag functions.
 ![finalflag](https://user-images.githubusercontent.com/70768880/116676941-3b17d080-a9c5-11eb-920f-a346516c0d50.png)
 here we can directly see the flag. i.e. SHELL{bas1c_r3v}.
+
+or just by doing strings on the exe file we get the flag.
