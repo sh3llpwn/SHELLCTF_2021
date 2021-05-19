@@ -1,0 +1,6 @@
+description:
+
+fun1(0x74,0x6f) + fun1(0x62,0x69) = ? 
+
+submit flag in hexadecimal format.
+i.e. if the ans is 0x74f the submit it as it is(0x74f).
