@@ -14,3 +14,6 @@ key scheduling and psudo random generator.
 
 after performing those two algorithms we get the key stream 
 by xoring the key stream and ciphered text we get the original text.
+this is the output of the python code which i used for encryption of the flag.
+![rc4_flag](https://user-images.githubusercontent.com/70768880/119309775-615f2200-bc8c-11eb-898b-2a68c54a0f6f.png)
+
