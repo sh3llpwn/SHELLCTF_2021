@@ -3,7 +3,7 @@
 import base64
 from Crypto.Cipher import AES
 
-secret_code = "shell{flag}"
+secret_code = "shell{kinda_sus}"
 #
 def pad(message):
     if len(message) % 16 != 0:
