@@ -1,1 +1,0 @@
-dc9111{my-super-secret-flag}
