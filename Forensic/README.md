@@ -1,2 +1,1 @@
-Total challenges list:
-1.
+SHELL{DUMMY_FLAG}
