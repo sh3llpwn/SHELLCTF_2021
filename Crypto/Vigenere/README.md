@@ -1,3 +1,5 @@
+# chall name : Poly-Alpha :(
+
 flag
 SHELL{D0_N0T_CUT_TR335}
 
