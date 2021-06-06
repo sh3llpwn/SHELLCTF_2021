@@ -1,3 +1,5 @@
+# chall name : haxxor
+
 # flag 
 SHELL{X0R3D_1T_HUH}
 
