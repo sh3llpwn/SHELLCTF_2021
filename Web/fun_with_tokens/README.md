@@ -21,7 +21,7 @@ This challenge is based on Path Traversal and JWTs.
 
 4. We can see that the `username` changed from `din_djarin11` to `qva_qwneva11`. So this hints that this could be `rot13`. When you apply the `rot13` cipher on the admin value `snyfr`, you see that it returns a string `false`. So, we can change this to a rot13 encrypted string for `true`, but to do that, we need the JWT secret, to sign the newly created json web token.
 
-5. If you observe the request on `/adminNames`, you see that it actally redirects to `/getFile?file=admins`. This route seems suspicious. We can try to include other files using this. When you try `/getFile?file=.env`, it returns `No such file or directory: /app/public/.env`. So, we can try `../.env` to come out of the public folder. You get a file in return, which is the `.env` containing the secret!
+5. If you observe the request on `/adminNames`, you see that it actally redirects to `/getFile?file=admins`. This route seems exploitable. We can try to include other files using this. We are hinted about environment. When you try `/getFile?file=.env`, it returns `No such file or directory: /app/public/.env`. So, we can try `../.env` to come out of the public folder. You get a file in return, which is the `.env` containing the secret!
 
 ```
 JWT_SECRET=G00D_s0ld13rs_k33p_s3cret5
